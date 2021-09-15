@@ -16,8 +16,8 @@
 
 # Additional Files
 ###### For better experience on the web design, download gif's [here](https://bit.ly/PlayerOne-Additional_Files)...
-###### Move **modal.gif** on **img/home/**.
-###### Move **gameplay01.gif** on **img/profile/**.
+"Move **modal.gif** on **img/home/**."
+"Move **gameplay01.gif** on **img/profile/**."
 ###### Move **gameplay02.gif** on **img/profile/**.
 ###### Move **gameplay03.gif** on **img/profile/**.
 ###### Move **gameplay04.gif** on **img/profile/**.
