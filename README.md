@@ -13,6 +13,7 @@
 
 # Application
 Simply download the [app](https://bit.ly/PlayerOne-App), if you want the app or both...
+> Just KEEP the file, i didn't put a virus there. Trust Me!
 
 # Additional Files
 For better experience on the PlayerOne, download gif's [here](https://bit.ly/PlayerOne-Additional_Files).<br><br>
